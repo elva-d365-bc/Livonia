@@ -14,66 +14,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/articles/darba_uzdevumi/faq.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/articles/darba_uzdevumi/faq.html",
-          "hash": "lFywcx3t7eyYuboKkQMfy5E/Gkiu+DDJ1QgPt4PHg6k="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/articles/darba_uzdevumi/overview.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/articles/darba_uzdevumi/overview.html",
-          "hash": "3AO55zWJjs4ZiPs365jBcfHqbAzeUMI9iT30/XVZ/ps="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "articles/articles/darba_uzdevumi/toc.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/articles/darba_uzdevumi/toc.html",
-          "hash": "cZIpOyeZp8J4ZeYZtAjEJs933r3scV3QyVmXqiblDRM="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/articles/darba_uzdevumi/usage_scenarios.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/articles/darba_uzdevumi/usage_scenarios.html",
-          "hash": "QuWLy4ddJkF9NI3mGcOEyyqR2UvLyQWAPSIvFn+JUCk="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/articles/darba_uzdevumi/work_assignments.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/articles/darba_uzdevumi/work_assignments.html",
-          "hash": "rxoKLe+c3TEW9Oiig34XTh+va9BlZRJb7SxBlOzRQNs="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "articles/articles/support/customer_terms.md",
       "output": {
         ".html": {
@@ -103,6 +43,66 @@
         ".html": {
           "relative_path": "articles/articles/support/toc.html",
           "hash": "4KRXG2P6Hsmwzps3uwNMoXYJTm/6t6/5LOOXsD5BsXM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/articles/work_assignments/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/articles/work_assignments/faq.html",
+          "hash": "gC7rBGmR8dlk+/wJUWZ3kswW5mC3wbKCLEfNf1ADZ/Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/articles/work_assignments/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/articles/work_assignments/overview.html",
+          "hash": "OGDRfH99lO6SELBO4sfXIiRGoSaIYyi/oQcpHrcz01E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/articles/work_assignments/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/articles/work_assignments/toc.html",
+          "hash": "cZIpOyeZp8J4ZeYZtAjEJs933r3scV3QyVmXqiblDRM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/articles/work_assignments/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/articles/work_assignments/usage_scenarios.html",
+          "hash": "NUEjgXjbfPhHdSK2gFGTUvJA9HWQJAM2zCoc3tvSygE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/articles/work_assignments/work_assignments.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/articles/work_assignments/work_assignments.html",
+          "hash": "903LZseh6iZFPWTHQsaX1gzVsYTSBmXtbJqaaKsqwAE="
         }
       },
       "is_incremental": false,
