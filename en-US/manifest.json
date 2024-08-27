@@ -1,0 +1,226 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/1/s/en-US",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/darba_uzdevumi/darba_uzdevumi.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/darba_uzdevumi/darba_uzdevumi.html",
+          "hash": "y4vJNXH3GgXPxsPQC1G6474DVhplYp1p1UmI64Ngq/E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/darba_uzdevumi/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/darba_uzdevumi/faq.html",
+          "hash": "4F56YuSkvZDSHwabOhX1M+S+76mmM7/y9yuGk4kS8s0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/darba_uzdevumi/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/darba_uzdevumi/overview.html",
+          "hash": "BkZWcNaLd+sQnjgqfam3JYhEE1j86jyRs4fr0xTcL7c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/darba_uzdevumi/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/darba_uzdevumi/toc.html",
+          "hash": "GlyMRAbnBBb2QUNyGHNlbNEJVUK+0TvdlyUEpAVLG/U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/darba_uzdevumi/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/darba_uzdevumi/usage_scenarios.html",
+          "hash": "uxtopGHPLbkFtYvFafZ844d/gyX24Ff/Uuk3RCns2G4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/support/customer_terms.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/support/customer_terms.html",
+          "hash": "zjPyHjd87URRNm2rg1Qg76gPgFkPkxe2q78T3/YSV4M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/support/privacy_statement.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/support/privacy_statement.html",
+          "hash": "8Uo5wCqj+CSUhzIh1I8QWi+1cUuau8pHR90q88t0UlQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/support/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/support/toc.html",
+          "hash": "4KRXG2P6Hsmwzps3uwNMoXYJTm/6t6/5LOOXsD5BsXM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/elva_logo.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/elva_logo.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/elva_logo_big.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/elva_logo_big.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "include-not-found"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "pzWEKqq2tZEC74W2C6Im1Z3/C1VHNTHFjbU3wkiK20E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "include-not-found"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "readme.html",
+          "hash": "OL1OunELcYiEq1f3mV0XbBMmZUFDNZAnu6Q4H+RFwD4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "uSUqKpNtHa2MyJGVJpt63j3Pab0BAcEEZO6fnt0v5sI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because docfx version changed from 2.48.1.0 to 2.59.4.0.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "DocfxVersionChanged"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 8,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
