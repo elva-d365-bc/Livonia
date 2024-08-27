@@ -14,11 +14,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/darba_uzdevumi/darba_uzdevumi.md",
+      "source_relative_path": "articles/articles/darba_uzdevumi/darba_uzdevumi.md",
       "output": {
         ".html": {
-          "relative_path": "articles/darba_uzdevumi/darba_uzdevumi.html",
-          "hash": "y4vJNXH3GgXPxsPQC1G6474DVhplYp1p1UmI64Ngq/E="
+          "relative_path": "articles/articles/darba_uzdevumi/darba_uzdevumi.html",
+          "hash": "3lxbBYUSW4Jnik7sHztwpp9EEBXbtFSAPTShx3nitL4="
         }
       },
       "is_incremental": false,
@@ -26,23 +26,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/darba_uzdevumi/faq.md",
+      "source_relative_path": "articles/articles/darba_uzdevumi/faq.md",
       "output": {
         ".html": {
-          "relative_path": "articles/darba_uzdevumi/faq.html",
-          "hash": "4F56YuSkvZDSHwabOhX1M+S+76mmM7/y9yuGk4kS8s0="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/darba_uzdevumi/overview.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/darba_uzdevumi/overview.html",
-          "hash": "BkZWcNaLd+sQnjgqfam3JYhEE1j86jyRs4fr0xTcL7c="
+          "relative_path": "articles/articles/darba_uzdevumi/faq.html",
+          "hash": "bh15TURDmn9naailocQTGlhD64uYZ1aamYtwj9mrNwY="
         }
       },
       "is_incremental": false,
@@ -50,11 +38,11 @@
     },
     {
       "type": "Toc",
-      "source_relative_path": "articles/darba_uzdevumi/toc.md",
+      "source_relative_path": "articles/articles/darba_uzdevumi/toc.md",
       "output": {
         ".html": {
-          "relative_path": "articles/darba_uzdevumi/toc.html",
-          "hash": "GlyMRAbnBBb2QUNyGHNlbNEJVUK+0TvdlyUEpAVLG/U="
+          "relative_path": "articles/articles/darba_uzdevumi/toc.html",
+          "hash": "0zrQ3Tmv+TsrdWtrZG0z/t6MLXnnVj2okwAcITeORXI="
         }
       },
       "is_incremental": false,
@@ -62,11 +50,47 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/darba_uzdevumi/usage_scenarios.md",
+      "source_relative_path": "articles/articles/darba_uzdevumi/usage_scenarios.md",
       "output": {
         ".html": {
-          "relative_path": "articles/darba_uzdevumi/usage_scenarios.html",
-          "hash": "uxtopGHPLbkFtYvFafZ844d/gyX24Ff/Uuk3RCns2G4="
+          "relative_path": "articles/articles/darba_uzdevumi/usage_scenarios.html",
+          "hash": "AxTm/yne5i9ZCdFs3gbc07uTDi8VZYK6vUd2Mfq+4NE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/articles/support/customer_terms.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/articles/support/customer_terms.html",
+          "hash": "0/9A0F23MhIZpbVcee9XIdAV5AU1cHJ0stllGAMTDKM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/articles/support/privacy_statement.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/articles/support/privacy_statement.html",
+          "hash": "JpjeiZbWgmDuhlABFZxW+k0QU19VRYuV3je2NRhRD/U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/articles/support/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/articles/support/toc.html",
+          "hash": "4KRXG2P6Hsmwzps3uwNMoXYJTm/6t6/5LOOXsD5BsXM="
         }
       },
       "is_incremental": false,
@@ -132,14 +156,15 @@
     },
     {
       "log_codes": [
-        "include-not-found"
+        "include-not-found",
+        "InvalidFileLink"
       ],
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "pzWEKqq2tZEC74W2C6Im1Z3/C1VHNTHFjbU3wkiK20E="
+          "hash": "rYIdywieySsZBISxl4x0647n4bUhF7mF9BT5NBnxfcM="
         }
       },
       "is_incremental": false,
@@ -166,7 +191,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "uSUqKpNtHa2MyJGVJpt63j3Pab0BAcEEZO6fnt0v5sI="
+          "hash": "2S68wa6S2mTTxLrDt7U44GDGRDIdXWAKNBkBhEmbjPc="
         }
       },
       "is_incremental": false,
@@ -187,7 +212,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 8,
+          "total_file_count": 9,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
