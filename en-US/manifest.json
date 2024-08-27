@@ -14,11 +14,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/articles/Work_assignments/faq.md",
+      "source_relative_path": "articles/articles/darba_uzdevumi/faq.md",
       "output": {
         ".html": {
-          "relative_path": "articles/articles/Work_assignments/faq.html",
-          "hash": "Dhi+TV2ovzYqgKLUx8i9QF2L4l0n+qYYghLFTa7uIVY="
+          "relative_path": "articles/articles/darba_uzdevumi/faq.html",
+          "hash": "lFywcx3t7eyYuboKkQMfy5E/Gkiu+DDJ1QgPt4PHg6k="
         }
       },
       "is_incremental": false,
@@ -26,11 +26,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/articles/Work_assignments/overview.md",
+      "source_relative_path": "articles/articles/darba_uzdevumi/overview.md",
       "output": {
         ".html": {
-          "relative_path": "articles/articles/Work_assignments/overview.html",
-          "hash": "QW+FvKW9+kJtj5/ikx68h7zuc/u1a6r9/XECNBkX0jM="
+          "relative_path": "articles/articles/darba_uzdevumi/overview.html",
+          "hash": "3AO55zWJjs4ZiPs365jBcfHqbAzeUMI9iT30/XVZ/ps="
         }
       },
       "is_incremental": false,
@@ -38,10 +38,10 @@
     },
     {
       "type": "Toc",
-      "source_relative_path": "articles/articles/Work_assignments/toc.md",
+      "source_relative_path": "articles/articles/darba_uzdevumi/toc.md",
       "output": {
         ".html": {
-          "relative_path": "articles/articles/Work_assignments/toc.html",
+          "relative_path": "articles/articles/darba_uzdevumi/toc.html",
           "hash": "cZIpOyeZp8J4ZeYZtAjEJs933r3scV3QyVmXqiblDRM="
         }
       },
@@ -50,11 +50,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/articles/Work_assignments/usage_scenarios.md",
+      "source_relative_path": "articles/articles/darba_uzdevumi/usage_scenarios.md",
       "output": {
         ".html": {
-          "relative_path": "articles/articles/Work_assignments/usage_scenarios.html",
-          "hash": "EZJPGGQgzi7w9wdyUKG0AMxQg7ToLryOF0xqQLgT6fs="
+          "relative_path": "articles/articles/darba_uzdevumi/usage_scenarios.html",
+          "hash": "QuWLy4ddJkF9NI3mGcOEyyqR2UvLyQWAPSIvFn+JUCk="
         }
       },
       "is_incremental": false,
@@ -62,11 +62,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/articles/Work_assignments/work_assignments.md",
+      "source_relative_path": "articles/articles/darba_uzdevumi/work_assignments.md",
       "output": {
         ".html": {
-          "relative_path": "articles/articles/Work_assignments/work_assignments.html",
-          "hash": "/7q0lpVBC/lipv0YrrtemYPUMKJ/GfQr0u63hCdbny8="
+          "relative_path": "articles/articles/darba_uzdevumi/work_assignments.html",
+          "hash": "rxoKLe+c3TEW9Oiig34XTh+va9BlZRJb7SxBlOzRQNs="
         }
       },
       "is_incremental": false,

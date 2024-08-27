@@ -1,4 +1,24 @@
 {
+  "articles/articles/darba_uzdevumi/faq.html": {
+    "href": "articles/articles/darba_uzdevumi/faq.html",
+    "title": "FAQ | Payment Message",
+    "keywords": "FAQ"
+  },
+  "articles/articles/darba_uzdevumi/overview.html": {
+    "href": "articles/articles/darba_uzdevumi/overview.html",
+    "title": "Overview | Payment Message",
+    "keywords": "Overview"
+  },
+  "articles/articles/darba_uzdevumi/usage_scenarios.html": {
+    "href": "articles/articles/darba_uzdevumi/usage_scenarios.html",
+    "title": "Usage Scenarious | Payment Message",
+    "keywords": "Usage Scenarious"
+  },
+  "articles/articles/darba_uzdevumi/work_assignments.html": {
+    "href": "articles/articles/darba_uzdevumi/work_assignments.html",
+    "title": "Work assignments | Payment Message",
+    "keywords": "Work assignments Field \"Product Due Date\": 🟧 - Monday of the current week 🟨 - Tuesday of the current week 🟦 - Wednesday of the current week 🟫 - Thursday of the current week 🟪 - Friday of the current week 🟥 - Saturday of the current week 🟩 - Sunday of the current week ⚪ - Monday of next week 🟠 - Tuesday of the following week 🔵- Wednesday of the following week 🟡 - Thursday of next week 🟣 - Friday of next week 🔴 - Saturday of the following week 🟢 - Sunday of the following week 🔶 - Current week (replaced by days of the week) 🔷 - next week (replaced by days of the week) ◾- after next week ◽- Beyond the next week 🚩 - the order must be fulfilled on time (not delayed). May contain a numeric/alphanumeric code that deciphers the reason. For example,, 🚩SN 🏁 - the order must be fulfilled in full Field \"Info\": ⚠️ - A problem with task scheduling is detected 🔼 - equipment downtime before the task (duplicates with the field \"Planned start date, time\" staining) 🔽 - equipment downtime after the task (duplicates with the field \"Planned end date, time\" staining) ✨ - New or modified task to consider ✔️ - task transferred for execution to production (this task is seen by the equipment operator) 🔨 - outsourcing task. Symbol archive (we can replace existing ones) ⚠️📅🔼🔽🚨🆘🔥⚔️❌✖️✨✅✔️❗🔻🔺🏁🎌🏴🏳️🔨🪜🚚🛻↩️🏭📦📮"
+  },
   "articles/articles/support/customer_terms.html": {
     "href": "articles/articles/support/customer_terms.html",
     "title": "Elva Baltic App Customer Terms | Payment Message",
@@ -8,26 +28,6 @@
     "href": "articles/articles/support/privacy_statement.html",
     "title": "Elva Baltic Privacy Statement | Payment Message",
     "keywords": "Elva Baltic Privacy Statement [Updated 30.08.2018] Introduction Elva Baltic (We, Us) is intended to respect and protect your privacy. This privacy statement describes how Elva Baltic collects, uses, protects and shares personal information of users. This privacy statement shall be subject to, governed by and construed in accordance with laws and Regulations of Republic of Latvia and European Union. Data We Collect Elva Baltic collects data that is needed to operate the cooperation with you. We collect information in several ways: Information You give us. Personal identifiers such as First name, Last name, company, country; Contact details such as e-mail, Phone number and other information required for business between You and Elva Baltic. Information third parties provide. Elva Baltic may get information from other parties and sources about you and your company. Information collected automatically. Elva Baltic is using automatic information logging about you and your computer, when our Websites are being accessed. Information logged using \"Cookies\". Elva Baltic sites uses \"cookies\" - small text files that are placed on your computer. In general, cookies are used to retain user preferences and provide anonymous tracking data to third party applications \"Cookies\" will make your browsing experience better. How We Use Personal Data Elva Baltic use personal information for following reasons: to prepare offers of our products, solutions and services, to prepare such agreements as licensing, non-disclosure agreement or any other agreements, appendices to agreements that sets the rights and obligations between You and Elva Baltic, to prepare VAT compliant invoices, as it is stated by regulation of Republic of Latvia, send technical notices, updates, security alerts, support and administrative messages, to communicate with you and provide customer service, to inform you about special offers, other products, seminars and other events to determine, which products, articles, solution descriptions provided by Elva Baltic attract Customer interest, so that We could tailor our products, articles, solution descriptions based on tendencies of particular industry, to operate, maintain, and improve our sites, products, and services. How We Protect Your Data Elva Baltic respects the individual's rights to privacy and makes all reasonable efforts to ensure the security and confidentiality of personal data and other information. All data in electronic format (emails, documents, uploaded batches of data, etc.) are stored either on the servers of the Elva Baltic or of its contractors, operation of which must abide local regulation of data protection of Republic of Latvia and regulation provided by European Union. Non-disclosure agreements with our employees and contractors ensure safe record keeping. Sharing Personal Data Elva Baltic may share personal information to complete any transaction or fulfill any commitment related to our products and/ or services you have requested from us. We share information: with your consent to third parties, to authorized employees of Elva Baltic and our contractors based on their direct responsibilities and involvement, for legal, protection and safety purposes, to comply with laws in the countries where we operate, to respond to requests and processes according to laws, anonymized data with social media, advertising and analytics partners. What are your rights You may access and control your personal data that Elva Baltic has obtained by contacting as described below. You may: request access to, erasure of, and updated to your personal data, withdraw your consent at any time, if you have given it, restrict Elva Baltic use your personal data for marketing purposes or where Elva Baltic performs a task in the public interest or pursues legitimate interests or those of a third party. Replies to any questions or issues raised by You are to be provided within time of ordinary business processing. Privacy Statement Changes Elva Baltic reserves the rights to change the regulations of this privacy policy at any time. We will provide you with the date when the privacy statement has been revised. Contact information If you have any queries about our Privacy Statement, please contact us: Elva Baltic 46 Robezu str., Riga LV-1004, Latvia info@elva.lv +371 67065115"
-  },
-  "articles/articles/Work_assignments/faq.html": {
-    "href": "articles/articles/Work_assignments/faq.html",
-    "title": "FAQ | Payment Message",
-    "keywords": "FAQ"
-  },
-  "articles/articles/Work_assignments/overview.html": {
-    "href": "articles/articles/Work_assignments/overview.html",
-    "title": "Overview | Payment Message",
-    "keywords": "Overview"
-  },
-  "articles/articles/Work_assignments/usage_scenarios.html": {
-    "href": "articles/articles/Work_assignments/usage_scenarios.html",
-    "title": "Usage Scenarious | Payment Message",
-    "keywords": "Usage Scenarious"
-  },
-  "articles/articles/Work_assignments/work_assignments.html": {
-    "href": "articles/articles/Work_assignments/work_assignments.html",
-    "title": "Work assignments | Payment Message",
-    "keywords": "Work assignments Field \"Product Due Date\": 🟧 - Monday of the current week 🟨 - Tuesday of the current week 🟦 - Wednesday of the current week 🟫 - Thursday of the current week 🟪 - Friday of the current week 🟥 - Saturday of the current week 🟩 - Sunday of the current week ⚪ - Monday of next week 🟠 - Tuesday of the following week 🔵- Wednesday of the following week 🟡 - Thursday of next week 🟣 - Friday of next week 🔴 - Saturday of the following week 🟢 - Sunday of the following week 🔶 - Current week (replaced by days of the week) 🔷 - next week (replaced by days of the week) ◾- after next week ◽- Beyond the next week 🚩 - the order must be fulfilled on time (not delayed). May contain a numeric/alphanumeric code that deciphers the reason. For example,, 🚩SN 🏁 - the order must be fulfilled in full Field \"Info\": ⚠️ - A problem with task scheduling is detected 🔼 - equipment downtime before the task (duplicates with the field \"Planned start date, time\" staining) 🔽 - equipment downtime after the task (duplicates with the field \"Planned end date, time\" staining) ✨ - New or modified task to consider ✔️ - task transferred for execution to production (this task is seen by the equipment operator) 🔨 - outsourcing task. Symbol archive (we can replace existing ones) ⚠️📅🔼🔽🚨🆘🔥⚔️❌✖️✨✅✔️❗🔻🔺🏁🎌🏴🏳️🔨🪜🚚🛻↩️🏭📦📮"
   },
   "articles/support/customer_terms.html": {
     "href": "articles/support/customer_terms.html",
