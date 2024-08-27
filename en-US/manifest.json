@@ -37,12 +37,24 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "articles/articles/darba_uzdevumi/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/articles/darba_uzdevumi/overview.html",
+          "hash": "fv8VOiJWYo2sPH4nyrjVz81JRsMCspBxJW6PyFEWWdQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "articles/articles/darba_uzdevumi/toc.md",
       "output": {
         ".html": {
           "relative_path": "articles/articles/darba_uzdevumi/toc.html",
-          "hash": "0zrQ3Tmv+TsrdWtrZG0z/t6MLXnnVj2okwAcITeORXI="
+          "hash": "3vPDjGHhmuFzPDhkKLdLkPjUkGNVKiNAE0W6F/wfLjA="
         }
       },
       "is_incremental": false,
@@ -212,7 +224,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 9,
+          "total_file_count": 10,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
