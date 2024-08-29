@@ -758,6 +758,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/xtools/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/faq.html",
+          "hash": "qMA0ING9kP6Qye0GErZKb0xlTej7EfucIhKcH3+6pGY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/xtools/notification/faq.md",
       "output": {
         ".html": {
@@ -889,15 +901,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "articles/xtools/toc.md",
       "output": {
         ".html": {
           "relative_path": "articles/xtools/toc.html",
-          "hash": "OQeDDLy1loxjlfeQMij/Uqi7JUSIaH0UgFA45Im/SHA="
+          "hash": "FjMPauP6qKw3izp1f5ZOKuyKP4qmg6hPW6fhz14YZ3A="
         }
       },
       "is_incremental": false,
@@ -1002,7 +1011,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 61,
+          "total_file_count": 62,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {

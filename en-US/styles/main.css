@@ -70,43 +70,28 @@ article h4 {
 }
 
 /* Navigācijas saites */
-.navbar a {
+.navbar a, .dropdown .dropbtn {
     float: left;
     font-size: 16px;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    background-color: inherit;
 }
 
 /* Dropdown konteiners */
 .dropdown {
     float: left;
+    position: relative;
     overflow: hidden;
-}
-
-/* Dropdown poga */
-.dropdown .dropbtn {
-    font-size: 16px;
-    border: none;
-    outline: none;
-    color: white;
-    padding: 14px 16px;
-    background-color: inherit;
-    font-family: inherit;
-    margin: 0;
-    cursor: pointer;
-}
-
-/* Pievieno peles kursoru hover */
-.navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: #555;
 }
 
 /* Dropdown saturs (nākamais līmenis) - sākumā paslēpts */
 .dropdown-content {
     display: none;
     position: absolute;
+    left: 0;
     background-color: #f9f9f9;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -123,15 +108,21 @@ article h4 {
     text-align: left;
 }
 
-/* Parāda dropdown pie hover */
-.dropdown-content a:hover {
-    background-color: #ddd;
-}
-
 /* Parāda dropdown saturu, kad pele ir virs dropdown konteinera */
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+/* Parāda dropdown pogas pie hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: #555;
+}
+
+/* Parāda dropdown saturu pie hover */
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
 
 
 /* SIDEBAR */
