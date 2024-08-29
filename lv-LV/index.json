@@ -1,44 +1,4 @@
 {
-  "articles/control_addins/control_addins.html": {
-    "href": "articles/control_addins/control_addins.html",
-    "title": "Control Addins | Livonia",
-    "keywords": "Control Addins"
-  },
-  "articles/control_addins/faq.html": {
-    "href": "articles/control_addins/faq.html",
-    "title": "BUJ | Livonia",
-    "keywords": "BUJ"
-  },
-  "articles/control_addins/overview.html": {
-    "href": "articles/control_addins/overview.html",
-    "title": "Apskats | Livonia",
-    "keywords": "Apskats"
-  },
-  "articles/control_addins/usage_scenarios.html": {
-    "href": "articles/control_addins/usage_scenarios.html",
-    "title": "Lietošanas scenāriji | Livonia",
-    "keywords": "Lietošanas scenāriji"
-  },
-  "articles/external_functions/external_functions.html": {
-    "href": "articles/external_functions/external_functions.html",
-    "title": "External Functions | Livonia",
-    "keywords": "External Functions"
-  },
-  "articles/external_functions/faq.html": {
-    "href": "articles/external_functions/faq.html",
-    "title": "BUJ | Livonia",
-    "keywords": "BUJ"
-  },
-  "articles/external_functions/overview.html": {
-    "href": "articles/external_functions/overview.html",
-    "title": "Apskats | Livonia",
-    "keywords": "Apskats"
-  },
-  "articles/external_functions/usage_scenarios.html": {
-    "href": "articles/external_functions/usage_scenarios.html",
-    "title": "Lietošanas scenāriji | Livonia",
-    "keywords": "Lietošanas scenāriji"
-  },
   "articles/general/faq.html": {
     "href": "articles/general/faq.html",
     "title": "BUJ | Livonia",
@@ -96,46 +56,6 @@
   },
   "articles/logistic/usage_scenarios.html": {
     "href": "articles/logistic/usage_scenarios.html",
-    "title": "Lietošanas scenāriji | Livonia",
-    "keywords": "Lietošanas scenāriji"
-  },
-  "articles/notification/faq.html": {
-    "href": "articles/notification/faq.html",
-    "title": "BUJ | Livonia",
-    "keywords": "BUJ"
-  },
-  "articles/notification/notification.html": {
-    "href": "articles/notification/notification.html",
-    "title": "Notification | Livonia",
-    "keywords": "Notification"
-  },
-  "articles/notification/overview.html": {
-    "href": "articles/notification/overview.html",
-    "title": "Apskats | Livonia",
-    "keywords": "Apskats"
-  },
-  "articles/notification/usage_scenarios.html": {
-    "href": "articles/notification/usage_scenarios.html",
-    "title": "Lietošanas scenāriji | Livonia",
-    "keywords": "Lietošanas scenāriji"
-  },
-  "articles/overview/faq.html": {
-    "href": "articles/overview/faq.html",
-    "title": "BUJ | Livonia",
-    "keywords": "BUJ"
-  },
-  "articles/overview/overview.html": {
-    "href": "articles/overview/overview.html",
-    "title": "Apskats | Livonia",
-    "keywords": "Apskats"
-  },
-  "articles/overview/overviewa.html": {
-    "href": "articles/overview/overviewa.html",
-    "title": "Overview | Livonia",
-    "keywords": "Overview"
-  },
-  "articles/overview/usage_scenarios.html": {
-    "href": "articles/overview/usage_scenarios.html",
     "title": "Lietošanas scenāriji | Livonia",
     "keywords": "Lietošanas scenāriji"
   },
@@ -254,10 +174,100 @@
     "title": "Warehouse | Livonia",
     "keywords": "Warehouse"
   },
+  "articles/xtools/control_addins/control_addins.html": {
+    "href": "articles/xtools/control_addins/control_addins.html",
+    "title": "Control Addins | Livonia",
+    "keywords": "Control Addins"
+  },
+  "articles/xtools/control_addins/faq.html": {
+    "href": "articles/xtools/control_addins/faq.html",
+    "title": "BUJ | Livonia",
+    "keywords": "BUJ"
+  },
+  "articles/xtools/control_addins/overview.html": {
+    "href": "articles/xtools/control_addins/overview.html",
+    "title": "Apskats | Livonia",
+    "keywords": "Apskats"
+  },
+  "articles/xtools/control_addins/usage_scenarios.html": {
+    "href": "articles/xtools/control_addins/usage_scenarios.html",
+    "title": "Lietošanas scenāriji | Livonia",
+    "keywords": "Lietošanas scenāriji"
+  },
+  "articles/xtools/external_functions/external_functions.html": {
+    "href": "articles/xtools/external_functions/external_functions.html",
+    "title": "External Functions | Livonia",
+    "keywords": "External Functions"
+  },
+  "articles/xtools/external_functions/faq.html": {
+    "href": "articles/xtools/external_functions/faq.html",
+    "title": "BUJ | Livonia",
+    "keywords": "BUJ"
+  },
+  "articles/xtools/external_functions/overview.html": {
+    "href": "articles/xtools/external_functions/overview.html",
+    "title": "Apskats | Livonia",
+    "keywords": "Apskats"
+  },
+  "articles/xtools/external_functions/usage_scenarios.html": {
+    "href": "articles/xtools/external_functions/usage_scenarios.html",
+    "title": "Lietošanas scenāriji | Livonia",
+    "keywords": "Lietošanas scenāriji"
+  },
+  "articles/xtools/notification/faq.html": {
+    "href": "articles/xtools/notification/faq.html",
+    "title": "BUJ | Livonia",
+    "keywords": "BUJ"
+  },
+  "articles/xtools/notification/notification.html": {
+    "href": "articles/xtools/notification/notification.html",
+    "title": "Notification | Livonia",
+    "keywords": "Notification"
+  },
+  "articles/xtools/notification/overview.html": {
+    "href": "articles/xtools/notification/overview.html",
+    "title": "Apskats | Livonia",
+    "keywords": "Apskats"
+  },
+  "articles/xtools/notification/usage_scenarios.html": {
+    "href": "articles/xtools/notification/usage_scenarios.html",
+    "title": "Lietošanas scenāriji | Livonia",
+    "keywords": "Lietošanas scenāriji"
+  },
+  "articles/xtools/overview.html": {
+    "href": "articles/xtools/overview.html",
+    "title": "Apskats | Livonia",
+    "keywords": "Apskats"
+  },
+  "articles/xtools/overview/faq.html": {
+    "href": "articles/xtools/overview/faq.html",
+    "title": "BUJ | Livonia",
+    "keywords": "BUJ"
+  },
+  "articles/xtools/overview/overview.html": {
+    "href": "articles/xtools/overview/overview.html",
+    "title": "Apskats | Livonia",
+    "keywords": "Apskats"
+  },
+  "articles/xtools/overview/overviewa.html": {
+    "href": "articles/xtools/overview/overviewa.html",
+    "title": "Overview | Livonia",
+    "keywords": "Overview"
+  },
+  "articles/xtools/overview/usage_scenarios.html": {
+    "href": "articles/xtools/overview/usage_scenarios.html",
+    "title": "Lietošanas scenāriji | Livonia",
+    "keywords": "Lietošanas scenāriji"
+  },
+  "articles/xtools/usage_scenarios.html": {
+    "href": "articles/xtools/usage_scenarios.html",
+    "title": "Lietošanas scenāriji | Livonia",
+    "keywords": "Lietošanas scenāriji"
+  },
   "index.html": {
     "href": "index.html",
-    "title": "Livonia: | Livonia",
-    "keywords": "Livonia: Modules: General Sales Product Constructor Production Warehouse Supply Logistic Integration XTools Notification Overview Control Addins External Functions"
+    "title": "Livonia | Livonia",
+    "keywords": "Livonia Modules General Sales Product Constructor Production Warehouse Supply Logistic Integration XTools Notification Overview Control Addins External Functions"
   },
   "readme.html": {
     "href": "readme.html",
