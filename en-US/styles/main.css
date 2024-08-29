@@ -1,9 +1,9 @@
 body {
     font-family: arial;
-    font-size: 16px;
-    line-height: 1.5;
+    font-size: 15px;
+    line-height: 1.2;
     color: #34393E;
-    /*background: url("./back_right.png") right bottom no-repeat fixed, url("back_left_bottom.png") left bottom no-repeat fixed;*/
+    background: url("./back_right.png") right bottom no-repeat fixed, url("back_left_bottom.png") left bottom no-repeat fixed;
 }
 
 /* HEADINGS */
@@ -12,30 +12,30 @@ h1,h2,h3,h4,h5,h6 {
 }
 h1 {
     font-weight: 600;
-    font-size: 32px;
+    font-size: 24px;
 }
 
 h2 {
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 1.8;
-}
-
-h3 {
     font-weight: 600;
     font-size: 20px;
     line-height: 1.8;
 }
 
-h4 {
+h3 {
     font-weight: 600;
     font-size: 16px;
     line-height: 1.8;
 }
 
-h5 {
+h4 {
     font-weight: 600;
     font-size: 14px;
+    line-height: 1.8;
+}
+
+h5 {
+    font-weight: 600;
+    font-size: 12px;
     padding: 10px 0px;
 }
 

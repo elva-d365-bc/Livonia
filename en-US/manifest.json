@@ -13,102 +13,6 @@
       "is_incremental": false
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "articles/support/customer_terms.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/support/customer_terms.html",
-          "hash": "zjPyHjd87URRNm2rg1Qg76gPgFkPkxe2q78T3/YSV4M="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/support/privacy_statement.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/support/privacy_statement.html",
-          "hash": "8Uo5wCqj+CSUhzIh1I8QWi+1cUuau8pHR90q88t0UlQ="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "articles/support/toc.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/support/toc.html",
-          "hash": "miDON6usIyRaz25odPgYT3mOZXcu4cnUe8dTUVGrb6I="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/work_assignments/faq.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/work_assignments/faq.html",
-          "hash": "Ad5/TTJ5Nafs1xZVl4up9SLAfzdce+5rGQORhdJRSLc="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/work_assignments/overview.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/work_assignments/overview.html",
-          "hash": "zfNLNJHAojPDYYiDrogxgCXsTm2QadfgfVnSm4jKpJs="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "articles/work_assignments/toc.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/work_assignments/toc.html",
-          "hash": "cZIpOyeZp8J4ZeYZtAjEJs933r3scV3QyVmXqiblDRM="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/work_assignments/usage_scenarios.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/work_assignments/usage_scenarios.html",
-          "hash": "8txQMjNTX1MrQZUH0n9b4+LCCe2wd8o44rq+7S8Hd38="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "articles/work_assignments/work_assignments.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/work_assignments/work_assignments.html",
-          "hash": "dmL+C7/QeyoPOqwrvTKfie/nt0toLO5r8XIarKZjQHY="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Resource",
       "source_relative_path": "images/elva_logo.jpg",
       "output": {
@@ -131,15 +35,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "oSoraFulxA5mu4gbwqiITIJEzVpQQV8fSOT3wXyQl88="
+          "hash": "4rC7QNSLiw+AayEzbxWRXglz8A5X7+s/0Ur15cPjjno="
         }
       },
       "is_incremental": false,
@@ -154,7 +55,7 @@
       "output": {
         ".html": {
           "relative_path": "readme.html",
-          "hash": "OL1OunELcYiEq1f3mV0XbBMmZUFDNZAnu6Q4H+RFwD4="
+          "hash": "LmPfFI9ElgRyMWI9rXv/81Ds/BMJrZG0ZZ6THmJMIzw="
         }
       },
       "is_incremental": false,
@@ -166,7 +67,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "f1lwiu28E1D3y8q0gsmpHBVFO+SNJTUbSTeJBdKWOqQ="
+          "hash": "4t6Wz/30bVeouNTFKnoYWUsGV8WjZMhu35GFi0R73hk="
         }
       },
       "is_incremental": false,
@@ -177,17 +78,17 @@
     {
       "status": {
         "can_incremental": false,
-        "details": "Cannot build incrementally because docfx version changed from 2.48.1.0 to 2.59.4.0.",
+        "details": "Cannot build incrementally because last build info is missing.",
         "incrementalPhase": "build",
         "total_file_count": 0,
         "skipped_file_count": 0,
-        "full_build_reason_code": "DocfxVersionChanged"
+        "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 8,
+          "total_file_count": 2,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
