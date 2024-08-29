@@ -13,6 +13,909 @@
       "is_incremental": false
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "articles/general/general_base/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/general/general_base/faq.html",
+          "hash": "x+jU2jpCg1hMOMEfjSZk/Nzrq0ORYDt7hlb8Se8P7B8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/general/general_base/general_base.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/general/general_base/general_base.html",
+          "hash": "yUgO0dixHZU8hhOCOrrs4rzL2ZHlalwYmsb1if6Snq8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/general/general_base/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/general/general_base/overview.html",
+          "hash": "LLMYbJLuZB9b1EC2Ji47GP8Kv5LbxvM5CqdENgpqRaQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "articles/general/general_base/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/general/general_base/toc.html",
+          "hash": "jpJnWu9tqkcXng4PwvqTDcJFheqwTMVWjynaOKA6NTY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/general/general_base/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/general/general_base/usage_scenarios.html",
+          "hash": "YqPA42ubmd7ftsQz8xYEBQHR+uqZRRkCTvEalKV2cCI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/general/general_lib/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/general/general_lib/faq.html",
+          "hash": "cA2RATG9749Z6vbiyFqEGbUrK0pi+qQHcCGcKSKrW4k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/general/general_lib/general_lib.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/general/general_lib/general_lib.html",
+          "hash": "xPqYVmYD9En9+eITW5Gzj4Utu01t5frZNPut18nRS1w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/general/general_lib/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/general/general_lib/overview.html",
+          "hash": "tS1Ton467lAyxznomPAZxRl4d0dzCifaCNm3oQlhWCw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "articles/general/general_lib/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/general/general_lib/toc.html",
+          "hash": "jpJnWu9tqkcXng4PwvqTDcJFheqwTMVWjynaOKA6NTY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/general/general_lib/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/general/general_lib/usage_scenarios.html",
+          "hash": "V+Zt2GSl1+5YXL/tSB9QUj5/AKOWKdlsDzu2/3D0VFo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/integration/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/integration/faq.html",
+          "hash": "5aD59wDBgb7loscqMi4FaL//pTNdZuyZuuNqyN5lrUA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/integration/integration.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/integration/integration.html",
+          "hash": "spQLScFBIzUQ/RI2d6NyWr3ORsIbLMOl8JZQunuWpSg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/integration/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/integration/overview.html",
+          "hash": "val2Quq1tLJkS0n33zRYmoj/oIAjgfmgKIulTaPGhgM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/integration/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/integration/toc.html",
+          "hash": "N7t291vnT+y8f2lv2qjSS9hw0ACBCYbyveFZ+J5R/9Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/integration/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/integration/usage_scenarios.html",
+          "hash": "m9pmNRJyCVHhFLj1pdNGQhpAw3HtXGmfz/S3AmnTC/0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/logistic/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/logistic/faq.html",
+          "hash": "x/hAfJzvqy9IPKeDABTWnec2E8UdP55A68VUzlHS8c0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/logistic/logistic.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/logistic/logistic.html",
+          "hash": "SzgUPFDeiXPrDavIXzeO4bvc1RHdupYiqfbqqKTzE2c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/logistic/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/logistic/overview.html",
+          "hash": "Xb5TU+FohCDJK3t7eipcGwGUxCh64XoATBB6pwKoOz0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/logistic/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/logistic/toc.html",
+          "hash": "cca9HCvLvQpKjpTWBINV40a6YgGDJbjyZ/02i/jkYEk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/logistic/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/logistic/usage_scenarios.html",
+          "hash": "7Izm0Z0vtQZacdzB9dTeneNpgcAwuqUBpEvWadLIqqY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/product_constructor/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/product_constructor/faq.html",
+          "hash": "zP0/DtRR/PsXMxv1CYXX0S79rw0yHTYu4V1YAq5RCZw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/product_constructor/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/product_constructor/overview.html",
+          "hash": "9Ytuus73wJ95DqgjWIc7UtZYiR143Eq+Q3Y+r7kx78c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/product_constructor/product_constructor.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/product_constructor/product_constructor.html",
+          "hash": "j6if3sEKIQmdB24vCBVXJWO1zP2hn0cm+wapXqzp71A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/product_constructor/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/product_constructor/toc.html",
+          "hash": "safrBA1dW/yVhirLJxWOd8IZW6q7KnwhEEgHFrFSIfk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/product_constructor/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/product_constructor/usage_scenarios.html",
+          "hash": "iwo47EDKRIPru0njLOfhM0GqLiQ91+sJm0bOiXGefQs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/production/production_base/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/production/production_base/faq.html",
+          "hash": "5YbwCQ+0Bstf2Xg6W1jmZG0b2s9gvGn9he0yJdzXxuM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/production/production_base/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/production/production_base/overview.html",
+          "hash": "PXzoSccZdHPf6iCXciJ/7DsNfc7M2ZMFqmlrKzZ1O/s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/production/production_base/production_base.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/production/production_base/production_base.html",
+          "hash": "Ozr5dUYZs52Pq29X0HfQK5MkSrYxW4ohjyJATiwkG4E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "articles/production/production_base/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/production/production_base/toc.html",
+          "hash": "bieEA/QSDydqUyAUqycdQiJO0o9PNkH1kw+FHUZvcV4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/production/production_base/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/production/production_base/usage_scenarios.html",
+          "hash": "GM34GPBanufVQ1IqKIX09+23aJJ9f2ttBih8mm5ZoEA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/production/production_lib/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/production/production_lib/faq.html",
+          "hash": "wrblzc3n1iY6pjqvOjwA3fNQfNG4qCgEmtwhsR+yD5s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/production/production_lib/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/production/production_lib/overview.html",
+          "hash": "eF5v5AYdsScdRx08yjKVSwD15Yl75/JZYk1yu/4S8W0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/production/production_lib/planning_work_tasks.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/production/production_lib/planning_work_tasks.html",
+          "hash": "MKBq0OlRhOSAvpvDCK3nnzPlTHQ6U5/ZBXqEaX5NIA4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/production/production_lib/production_lib.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/production/production_lib/production_lib.html",
+          "hash": "EFGeDKqxpG7JGHoEsooVDvLDdilqDFJe0rnVsLonIDc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "articles/production/production_lib/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/production/production_lib/toc.html",
+          "hash": "VjNkLQperRBegBoNixGvpM/2cH2RSoWpIZqCm6iNUME="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/production/production_lib/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/production/production_lib/usage_scenarios.html",
+          "hash": "xhwbbCi4bkree19WTDoYgzv/naniCAsM7n9XYECHxcI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/sales/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/sales/faq.html",
+          "hash": "hIwYUlVTpM+1+tmIAmRXZTZ646yT+Ccs+ryrEZT2lDI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/sales/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/sales/overview.html",
+          "hash": "3zJQusMxc3ab1uVAYvRCV3lizAZXJoJNRb3xBGNziUA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/sales/sales.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/sales/sales.html",
+          "hash": "2o20Um/YtmgIhbCqdse2sUB+yH5Dl9N9sLw4uSsSFZc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/sales/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/sales/toc.html",
+          "hash": "uMberIxFBmsOIC3lQgM4l86OIMiuCtZbHmKSJ8kxdKI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/sales/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/sales/usage_scenarios.html",
+          "hash": "4BxskifSDHlh2SgBDNOvmGVHlRCXXRvHWDKxK6Z1b/o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/supply/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/supply/faq.html",
+          "hash": "lhcHuYGzPufr5yisTVUT3fUNaanp5ChJ3bfrK2uKovk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/supply/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/supply/overview.html",
+          "hash": "4fzlgIuNd2pCxolHDFT9znsJjRSmoR3c0+uN4d2VQ/U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/supply/supply.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/supply/supply.html",
+          "hash": "Juec6MgI5DD3cOS1VSBq7vrQFeVxV2cTr0Hgj+PUPIg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/supply/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/supply/toc.html",
+          "hash": "kOTPX7hasKHt9Cj2m8fMY7tgP64EdZQ1ElPmoY29+B8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/supply/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/supply/usage_scenarios.html",
+          "hash": "oaxtayTvuqz3RdPsUrp39cycyBgF4/yfGFD6AvFbV0A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/warehouse/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/warehouse/faq.html",
+          "hash": "CWRFcULZS2MnmsOGmONkP25TjQZyCsbYVPkA5z0wIeY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/warehouse/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/warehouse/overview.html",
+          "hash": "V6IEFKA2rxHmGQnHUYiDaa6e7X6LBqm8jLwh6h9cZJM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/warehouse/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/warehouse/toc.html",
+          "hash": "lwIr4gxLgihOLzDEULH7s8gHkLWuojxBxs1b6rE3hkw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/warehouse/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/warehouse/usage_scenarios.html",
+          "hash": "QZJdOM2V1Ut5gxkfMv+bjALFkE+BObzJY0moGlE7oN8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/warehouse/warehouse.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/warehouse/warehouse.html",
+          "hash": "6tApm80V6//w3lyhUmegM1oJc1Qwy4LPRPwhgXOe4vw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/control_addins/control_addins.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/control_addins/control_addins.html",
+          "hash": "pVWYBd/FxLz0Yq4wF8hD3BXk7xL3t4V+RGwQ9Be7mG0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/control_addins/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/control_addins/faq.html",
+          "hash": "S/quEOldBgWH3sycyZs+uZn93okVtt64E8+IHiBxu/E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/control_addins/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/control_addins/overview.html",
+          "hash": "opxwYDCMdYi4SIa0z5WmL6Cij/6fc9E2gKyy6yQHSjw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/xtools/control_addins/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/control_addins/toc.html",
+          "hash": "XLixuPjUMmS6M9ly3eN/HP+9EsQu1cP8XqOJVxMP7EU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/control_addins/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/control_addins/usage_scenarios.html",
+          "hash": "xgc0C8t2OBrBpFeOw0S2PQ6xhIS0h7zq4CMMZUDjPxE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/external_functions/external_functions.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/external_functions/external_functions.html",
+          "hash": "fwiGtLm8rs4uoPDLTDpxG9HnVydYw9A1g6GZx1rsZks="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/external_functions/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/external_functions/faq.html",
+          "hash": "XCS+m3kbmTDwvkO2Rvx8XkGzN1ug1Qmwl1W8G1ZbBws="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/external_functions/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/external_functions/overview.html",
+          "hash": "JtQu6/YLpvPhJnbCxNZl5kmzrb7RH/Aviq6w1mutQOg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/xtools/external_functions/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/external_functions/toc.html",
+          "hash": "/wtsQaVjh1ZY5pD7nz5CfmXWeMvxZ6ryvXWbDIN4HQU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/external_functions/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/external_functions/usage_scenarios.html",
+          "hash": "lmqu84sLNONnpxRFwSKYHaFvBEmXxEBusgfb8DsXsgM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/notification/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/notification/faq.html",
+          "hash": "wRgTwpRSUT8bBLm7GGQU/FkBgyGOFEJr6UrrtHfUtoE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/notification/notification.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/notification/notification.html",
+          "hash": "UQhpvEo1ppE90ExiRL0wz7dHDzKkKO2m/sPrFOFildo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/notification/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/notification/overview.html",
+          "hash": "OpYijNaGH4kE65l1Nm9yRthYJwzmhx+ZRYmHj4n8YL8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/xtools/notification/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/notification/toc.html",
+          "hash": "5DraKJJMlpW1u+TEzN99FDSfzlyCZd6WqPjMxWbHnD0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/notification/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/notification/usage_scenarios.html",
+          "hash": "7tg6i7mSNabkQbFrUvEvWbELzd1rzaNxvRu0pXVVqLo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/overview.html",
+          "hash": "CnE3rno1B5xd9elE4PGoQsSSF4ZkZ7+C/GeuzExNoXE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/overview/faq.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/overview/faq.html",
+          "hash": "+0apJSlreQX0Skwy9U8VPBdPvLQ3OB1IVlyDYywpXUU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/overview/overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/overview/overview.html",
+          "hash": "nVM/A773O+hBdN6p37ZyaL/COvX3xzYvpVLmc602G50="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/overview/overviewa.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/overview/overviewa.html",
+          "hash": "yjScV1dlzXU2FjK3233T2Y1Gc6IV4iqispAPzAxN1P0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/xtools/overview/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/overview/toc.html",
+          "hash": "dp9UoZ2K45Dlkq85e1OQrtyev7fj9uEl2Qu3quRLUVs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/overview/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/overview/usage_scenarios.html",
+          "hash": "l1GIQooFzAyvARtMSfY4EuQQFVz1cqdBiPHdzIBvi74="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "articles/xtools/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/toc.html",
+          "hash": "OQeDDLy1loxjlfeQMij/Uqi7JUSIaH0UgFA45Im/SHA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/xtools/usage_scenarios.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/usage_scenarios.html",
+          "hash": "Zp1mPWl6YDcotxaCxpNZAobgy7EueLuyL0Nd8fzE76g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "images/elva_logo.jpg",
       "output": {
@@ -35,12 +938,26 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "images/elva_logo_s.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/elva_logo_s.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "4rC7QNSLiw+AayEzbxWRXglz8A5X7+s/0Ur15cPjjno="
+          "hash": "xPCGtqIKAOqS2QctS2qIw0xOsrXPG7Sd7DzUvx5d4uo="
         }
       },
       "is_incremental": false,
@@ -64,7 +981,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "4t6Wz/30bVeouNTFKnoYWUsGV8WjZMhu35GFi0R73hk="
+          "hash": "4VSGpKT2F09kx6a3Wu+Gn3FCvQRnwbKw7q3+sknudBg="
         }
       },
       "is_incremental": false,
@@ -85,7 +1002,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 2,
+          "total_file_count": 61,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
