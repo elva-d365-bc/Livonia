@@ -781,6 +781,21 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "articles/xtools/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/xtools/toc.html",
+          "hash": "i+xvF/2PP+hiU8C/HgcTYW4mCPzusEBJLKe8zBRiucg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "images/elva_logo.jpg",
       "output": {
@@ -808,7 +823,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "py9f98mF/TXiOX0frJKpSXgJhwDGxt/TIf3wWNyJThQ="
+          "hash": "gjaK+9p5SYlQyAZd12v5LgBf9FerQ3Se02wPuva4qic="
         }
       },
       "is_incremental": false,
@@ -827,12 +842,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "pAEOkK80VUoBwPPVXzsohRguSpEQKDRNwBSuZLiNxOY="
+          "hash": "h3KoX4If3mGjkC0iBdelRPs+r6Xz2mXj2vWZwz42plE="
         }
       },
       "is_incremental": false,
