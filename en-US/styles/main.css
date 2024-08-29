@@ -62,6 +62,7 @@ article h4 {
 */
 
 /* NAVBAR */
+
 /* Galvenā navigācijas josla */
 .navbar {
     overflow: hidden;
@@ -94,14 +95,15 @@ article h4 {
     background-color: inherit;
     font-family: inherit;
     margin: 0;
+    cursor: pointer;
 }
 
-/* Pievieno peles kursoru */
+/* Pievieno peles kursoru hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
     background-color: #555;
 }
 
-/* Dropdown saturs (nākamais līmenis) */
+/* Dropdown saturs (nākamais līmenis) - sākumā paslēpts */
 .dropdown-content {
     display: none;
     position: absolute;
@@ -111,7 +113,7 @@ article h4 {
     z-index: 1;
 }
 
-/* Saite dropdown iekšpusē */
+/* Dropdown saites iekšpusē */
 .dropdown-content a {
     float: none;
     color: black;
@@ -126,9 +128,12 @@ article h4 {
     background-color: #ddd;
 }
 
+/* Parāda dropdown saturu, kad pele ir virs dropdown konteinera */
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+
 /* SIDEBAR */
 
 .toc .level1>li {
