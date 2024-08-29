@@ -89,15 +89,15 @@ article h4 {
 .navbar-inverse .navbar-text {
     color: black;
     background-color: white;
-    border-bottom: 3px solid transparent;
-    padding-bottom: 12px;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 2px;
 }
 
 .navbar-inverse .navbar-nav>li>a:focus,
 .navbar-inverse .navbar-nav>li>a:hover {
     color: black;
     background-color: #F1F1F1;
-    border-bottom: 3px solid #E6E8AC;
+    border-bottom: 2px solid #E6E8AC;
 }
 
 .navbar-inverse .navbar-nav>.active>a,
@@ -105,7 +105,7 @@ article h4 {
 .navbar-inverse .navbar-nav>.active>a:hover {
     color: black;
     background-color: #F1F1F1;
-    border-bottom: 3px solid #E6E8AC;
+    border-bottom: 2px solid #E6E8AC;
 }
 
 .navbar-form .form-control {
