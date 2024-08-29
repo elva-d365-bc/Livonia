@@ -59,43 +59,83 @@
     "title": "Lietošanas scenāriji | Livonia",
     "keywords": "Lietošanas scenāriji"
   },
-  "articles/logistic/faq.html": {
-    "href": "articles/logistic/faq.html",
+  "articles/logistic/logistic_base/faq.html": {
+    "href": "articles/logistic/logistic_base/faq.html",
     "title": "BUJ | Livonia",
     "keywords": "BUJ"
   },
-  "articles/logistic/logistic.html": {
-    "href": "articles/logistic/logistic.html",
+  "articles/logistic/logistic_base/logistic_base.html": {
+    "href": "articles/logistic/logistic_base/logistic_base.html",
     "title": "Logistic | Livonia",
     "keywords": "Logistic"
   },
-  "articles/logistic/overview.html": {
-    "href": "articles/logistic/overview.html",
+  "articles/logistic/logistic_base/overview.html": {
+    "href": "articles/logistic/logistic_base/overview.html",
     "title": "Apskats | Livonia",
     "keywords": "Apskats"
   },
-  "articles/logistic/usage_scenarios.html": {
-    "href": "articles/logistic/usage_scenarios.html",
+  "articles/logistic/logistic_base/usage_scenarios.html": {
+    "href": "articles/logistic/logistic_base/usage_scenarios.html",
     "title": "Lietošanas scenāriji | Livonia",
     "keywords": "Lietošanas scenāriji"
   },
-  "articles/product_constructor/faq.html": {
-    "href": "articles/product_constructor/faq.html",
+  "articles/logistic/logistic_lib/faq.html": {
+    "href": "articles/logistic/logistic_lib/faq.html",
     "title": "BUJ | Livonia",
     "keywords": "BUJ"
   },
-  "articles/product_constructor/overview.html": {
-    "href": "articles/product_constructor/overview.html",
+  "articles/logistic/logistic_lib/logistic_lib.html": {
+    "href": "articles/logistic/logistic_lib/logistic_lib.html",
+    "title": "Logistic | Livonia",
+    "keywords": "Logistic"
+  },
+  "articles/logistic/logistic_lib/overview.html": {
+    "href": "articles/logistic/logistic_lib/overview.html",
     "title": "Apskats | Livonia",
     "keywords": "Apskats"
   },
-  "articles/product_constructor/product_constructor.html": {
-    "href": "articles/product_constructor/product_constructor.html",
+  "articles/logistic/logistic_lib/usage_scenarios.html": {
+    "href": "articles/logistic/logistic_lib/usage_scenarios.html",
+    "title": "Lietošanas scenāriji | Livonia",
+    "keywords": "Lietošanas scenāriji"
+  },
+  "articles/product_constructor/product_constructor_base/faq.html": {
+    "href": "articles/product_constructor/product_constructor_base/faq.html",
+    "title": "BUJ | Livonia",
+    "keywords": "BUJ"
+  },
+  "articles/product_constructor/product_constructor_base/overview.html": {
+    "href": "articles/product_constructor/product_constructor_base/overview.html",
+    "title": "Apskats | Livonia",
+    "keywords": "Apskats"
+  },
+  "articles/product_constructor/product_constructor_base/product_constructor_base.html": {
+    "href": "articles/product_constructor/product_constructor_base/product_constructor_base.html",
     "title": "Product Constructor | Livonia",
     "keywords": "Product Constructor"
   },
-  "articles/product_constructor/usage_scenarios.html": {
-    "href": "articles/product_constructor/usage_scenarios.html",
+  "articles/product_constructor/product_constructor_base/usage_scenarios.html": {
+    "href": "articles/product_constructor/product_constructor_base/usage_scenarios.html",
+    "title": "Lietošanas scenāriji | Livonia",
+    "keywords": "Lietošanas scenāriji"
+  },
+  "articles/product_constructor/product_constructor_lib/faq.html": {
+    "href": "articles/product_constructor/product_constructor_lib/faq.html",
+    "title": "BUJ | Livonia",
+    "keywords": "BUJ"
+  },
+  "articles/product_constructor/product_constructor_lib/overview.html": {
+    "href": "articles/product_constructor/product_constructor_lib/overview.html",
+    "title": "Apskats | Livonia",
+    "keywords": "Apskats"
+  },
+  "articles/product_constructor/product_constructor_lib/product_constructor_lib.html": {
+    "href": "articles/product_constructor/product_constructor_lib/product_constructor_lib.html",
+    "title": "Product Constructor | Livonia",
+    "keywords": "Product Constructor"
+  },
+  "articles/product_constructor/product_constructor_lib/usage_scenarios.html": {
+    "href": "articles/product_constructor/product_constructor_lib/usage_scenarios.html",
     "title": "Lietošanas scenāriji | Livonia",
     "keywords": "Lietošanas scenāriji"
   },
@@ -144,63 +184,123 @@
     "title": "Lietošanas scenāriji | Livonia",
     "keywords": "Lietošanas scenāriji"
   },
-  "articles/sales/faq.html": {
-    "href": "articles/sales/faq.html",
+  "articles/sales/sales_base/faq.html": {
+    "href": "articles/sales/sales_base/faq.html",
     "title": "BUJ | Livonia",
     "keywords": "BUJ"
   },
-  "articles/sales/overview.html": {
-    "href": "articles/sales/overview.html",
+  "articles/sales/sales_base/overview.html": {
+    "href": "articles/sales/sales_base/overview.html",
     "title": "Apskats | Livonia",
     "keywords": "Apskats"
   },
-  "articles/sales/sales.html": {
-    "href": "articles/sales/sales.html",
+  "articles/sales/sales_base/sales_base.html": {
+    "href": "articles/sales/sales_base/sales_base.html",
     "title": "Sales | Livonia",
     "keywords": "Sales"
   },
-  "articles/sales/usage_scenarios.html": {
-    "href": "articles/sales/usage_scenarios.html",
+  "articles/sales/sales_base/usage_scenarios.html": {
+    "href": "articles/sales/sales_base/usage_scenarios.html",
     "title": "Lietošanas scenāriji | Livonia",
     "keywords": "Lietošanas scenāriji"
   },
-  "articles/supply/faq.html": {
-    "href": "articles/supply/faq.html",
+  "articles/sales/sales_lib/faq.html": {
+    "href": "articles/sales/sales_lib/faq.html",
     "title": "BUJ | Livonia",
     "keywords": "BUJ"
   },
-  "articles/supply/overview.html": {
-    "href": "articles/supply/overview.html",
+  "articles/sales/sales_lib/overview.html": {
+    "href": "articles/sales/sales_lib/overview.html",
     "title": "Apskats | Livonia",
     "keywords": "Apskats"
   },
-  "articles/supply/supply.html": {
-    "href": "articles/supply/supply.html",
+  "articles/sales/sales_lib/sales_lib.html": {
+    "href": "articles/sales/sales_lib/sales_lib.html",
+    "title": "Sales | Livonia",
+    "keywords": "Sales"
+  },
+  "articles/sales/sales_lib/usage_scenarios.html": {
+    "href": "articles/sales/sales_lib/usage_scenarios.html",
+    "title": "Lietošanas scenāriji | Livonia",
+    "keywords": "Lietošanas scenāriji"
+  },
+  "articles/supply/supply_base/faq.html": {
+    "href": "articles/supply/supply_base/faq.html",
+    "title": "BUJ | Livonia",
+    "keywords": "BUJ"
+  },
+  "articles/supply/supply_base/overview.html": {
+    "href": "articles/supply/supply_base/overview.html",
+    "title": "Apskats | Livonia",
+    "keywords": "Apskats"
+  },
+  "articles/supply/supply_base/supply_base.html": {
+    "href": "articles/supply/supply_base/supply_base.html",
     "title": "Supply | Livonia",
     "keywords": "Supply"
   },
-  "articles/supply/usage_scenarios.html": {
-    "href": "articles/supply/usage_scenarios.html",
+  "articles/supply/supply_base/usage_scenarios.html": {
+    "href": "articles/supply/supply_base/usage_scenarios.html",
     "title": "Lietošanas scenāriji | Livonia",
     "keywords": "Lietošanas scenāriji"
   },
-  "articles/warehouse/faq.html": {
-    "href": "articles/warehouse/faq.html",
+  "articles/supply/supply_lib/faq.html": {
+    "href": "articles/supply/supply_lib/faq.html",
     "title": "BUJ | Livonia",
     "keywords": "BUJ"
   },
-  "articles/warehouse/overview.html": {
-    "href": "articles/warehouse/overview.html",
+  "articles/supply/supply_lib/overview.html": {
+    "href": "articles/supply/supply_lib/overview.html",
     "title": "Apskats | Livonia",
     "keywords": "Apskats"
   },
-  "articles/warehouse/usage_scenarios.html": {
-    "href": "articles/warehouse/usage_scenarios.html",
+  "articles/supply/supply_lib/supply_lib.html": {
+    "href": "articles/supply/supply_lib/supply_lib.html",
+    "title": "Supply | Livonia",
+    "keywords": "Supply"
+  },
+  "articles/supply/supply_lib/usage_scenarios.html": {
+    "href": "articles/supply/supply_lib/usage_scenarios.html",
     "title": "Lietošanas scenāriji | Livonia",
     "keywords": "Lietošanas scenāriji"
   },
-  "articles/warehouse/warehouse.html": {
-    "href": "articles/warehouse/warehouse.html",
+  "articles/warehouse/warehouse_base/faq.html": {
+    "href": "articles/warehouse/warehouse_base/faq.html",
+    "title": "BUJ | Livonia",
+    "keywords": "BUJ"
+  },
+  "articles/warehouse/warehouse_base/overview.html": {
+    "href": "articles/warehouse/warehouse_base/overview.html",
+    "title": "Apskats | Livonia",
+    "keywords": "Apskats"
+  },
+  "articles/warehouse/warehouse_base/usage_scenarios.html": {
+    "href": "articles/warehouse/warehouse_base/usage_scenarios.html",
+    "title": "Lietošanas scenāriji | Livonia",
+    "keywords": "Lietošanas scenāriji"
+  },
+  "articles/warehouse/warehouse_base/warehouse_base.html": {
+    "href": "articles/warehouse/warehouse_base/warehouse_base.html",
+    "title": "Warehouse | Livonia",
+    "keywords": "Warehouse"
+  },
+  "articles/warehouse/warehouse_lib/faq.html": {
+    "href": "articles/warehouse/warehouse_lib/faq.html",
+    "title": "BUJ | Livonia",
+    "keywords": "BUJ"
+  },
+  "articles/warehouse/warehouse_lib/overview.html": {
+    "href": "articles/warehouse/warehouse_lib/overview.html",
+    "title": "Apskats | Livonia",
+    "keywords": "Apskats"
+  },
+  "articles/warehouse/warehouse_lib/usage_scenarios.html": {
+    "href": "articles/warehouse/warehouse_lib/usage_scenarios.html",
+    "title": "Lietošanas scenāriji | Livonia",
+    "keywords": "Lietošanas scenāriji"
+  },
+  "articles/warehouse/warehouse_lib/warehouse_lib.html": {
+    "href": "articles/warehouse/warehouse_lib/warehouse_lib.html",
     "title": "Warehouse | Livonia",
     "keywords": "Warehouse"
   },
@@ -302,7 +402,7 @@
   "index.html": {
     "href": "index.html",
     "title": "Livonia | Livonia",
-    "keywords": "Livonia Modules General Sales Product Constructor Production Lib Production Base Warehouse Supply Logistic Integration XTools Notification Overview Control Addins External Functions"
+    "keywords": "Livonia Modules General Lib General Base Sales Lib Sales Base Product Constructor Lib Product Constructor Base Production Lib Production Base Warehouse Lib Warehouse Base Supply Lib Supply Base Logistic Lib Logistic Base Integration XTools Notification Overview Control Addins External Functions"
   },
   "readme.html": {
     "href": "readme.html",
