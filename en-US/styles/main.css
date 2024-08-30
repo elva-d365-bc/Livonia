@@ -63,64 +63,54 @@ article h4 {
 
 /* NAVBAR */
 
-/* Galvenā navigācijas josla */
+.navbar-brand>img {
+    color: #fff;
+}
+
 .navbar {
-    overflow: hidden;
-    background-color: #333;
+    border: none;
+    /* Both navbars use box-shadow */
+    -webkit-box-shadow: 0px 1px 3px 0px rgba(100, 100, 100, 0.5);
+    -moz-box-shadow: 0px 1px 3px 0px rgba(100, 100, 100, 0.5);
+    box-shadow: 0px 1px 3px 0px rgba(100, 100, 100, 0.5);
 }
 
-/* Navigācijas saites */
-.navbar a, .dropdown .dropbtn {
-    float: left;
-    font-size: 16px;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    background-color: inherit;
+.subnav {
+    border-top: 1px solid #ddd;
+    background-color: #fff;
 }
 
-/* Dropdown konteiners */
-.dropdown {
-    float: left;
-    position: relative;
-    overflow: hidden;
+.navbar-inverse {
+    background-color: #ffffff;
+    z-index: 100;
 }
 
-/* Dropdown saturs (nākamais līmenis) - sākumā paslēpts */
-.dropdown-content {
-    display: none;
-    position: absolute;
-    left: 0;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-}
-
-/* Dropdown saites iekšpusē */
-.dropdown-content a {
-    float: none;
+.navbar-inverse .navbar-nav>li>a,
+.navbar-inverse .navbar-text {
     color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
+    background-color: white;
+    border-bottom: 3px solid transparent;
+    padding-bottom: 12px;
 }
 
-/* Parāda dropdown saturu, kad pele ir virs dropdown konteinera */
-.dropdown:hover .dropdown-content {
-    display: block;
+.navbar-inverse .navbar-nav>li>a:focus,
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: black;
+    background-color: #F1F1F1;
+    border-bottom: 3px solid #E6E8AC;
 }
 
-/* Parāda dropdown pogas pie hover */
-.navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: #555;
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover {
+    color: black;
+    background-color: #F1F1F1;
+    border-bottom: 3px solid #E6E8AC;
 }
 
-/* Parāda dropdown saturu pie hover */
-.dropdown-content a:hover {
-    background-color: #ddd;
+.navbar-form .form-control {
+    border: none;
+    border-radius: 20px;
 }
 
 
