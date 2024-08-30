@@ -1312,12 +1312,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "OejDB1KmyohYgzQOWu+Boi9tRyuLjLSB8MXNTEj01+8="
+          "hash": "1T86jOqIr9Kp2P+UBGkN6BpfALHkPkFIhDaozmtx/sk="
         }
       },
       "is_incremental": false,
